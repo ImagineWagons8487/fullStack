@@ -1,6 +1,12 @@
 <script>
   import "../app.css";
 </script>
+<!-- Planned colors:
+🌸 Blush Pink (#F4C6C3)
+🥛 Ivory Cream (#FAF3E0)
+🌿 Sage Green (#A8B5A2) - Accents
+🎀 Antique Rose (#D59A9A) 
+-->
 <nav class="bg-white border-gray-200 dark:bg-gray-900">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="https://youtu.be/dQw4w9WgXcQ" class="flex items-center space-x-3 rtl:space-x-reverse">
