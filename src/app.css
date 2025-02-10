@@ -1,3 +1,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-blush-pink{
+    background-color: #F4C6C3;
+}
+
+.bg-antique-rose{
+    background-color: #D59A9A;
+}
+
+.border-sage-green{
+    border-color: #A8B5A2;
+}
+
+.text-ivory-cream{
+    color: #FAF3E0;
+}
+
+.bg-ivory-cream{
+    background-color: #FAF3E0;
+}
+
+@media (min-width: 768px) {
+    .md\:hover\:text-sage-green:hover {
+        color: #A8B5A2;
+    }
+}
