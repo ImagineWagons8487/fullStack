@@ -22,8 +22,36 @@
     background-color: #FAF3E0;
 }
 
+.text-warm-mocha-brown{
+    color:#8D6A5E;
+}
+
+.text-deep-charcoal{
+    color:#3C3C3C;
+}
+
+.border-warm-mocha-brown{
+    border-color:#8D6A5E;
+}
+
+.text-dark-sage{
+    color:#5A6B5A;
+}
+
 @media (min-width: 768px) {
     .md\:hover\:text-sage-green:hover {
         color: #A8B5A2;
+    }
+
+    .md\:bg-blush-pink{
+        color:#F4C6C3;
+    }
+
+    .md\:bg-antique-rose{
+        color:#D59A9A;
+    }
+
+    .md\:text-dark-sage{
+        color:#5A6B5A;
     }
 }
