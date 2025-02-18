@@ -43,6 +43,13 @@
         color: #A8B5A2;
     }
 
+    .md\:hover\:text-deep-charcoal:hover{
+        color: #3C3C3C;
+    }
+
+    .md\:hover\:text-dark-sage:hover{
+        color: #5A6B5A;
+    }
     .md\:bg-blush-pink{
         color:#F4C6C3;
     }
